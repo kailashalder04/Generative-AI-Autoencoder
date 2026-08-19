@@ -20,7 +20,7 @@ By mapping the 2D latent space, we can see how the AI smoothly morphs one clothi
 ### 2. Original vs. Reconstructed
 The model learns to compress a 784-pixel image down to just 2 numbers, and then successfully reconstruct the image from those 2 numbers.
 
-![Reconstruction](e)
+![Reconstruction](Reconstruction.png)
 
 ---
 
