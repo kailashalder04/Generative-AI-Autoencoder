@@ -15,12 +15,12 @@ This project demonstrates how machines learn to conceptualize and generate entir
 ### 1. The Latent Space Manifold
 By mapping the 2D latent space, we can see how the AI smoothly morphs one clothing item into another. The items in the "in-between" spaces are entirely original creations hallucinated by the network!
 
-![Latent Space Map](https://via.placeholder.com/800x400.png?text=Paste+your+Latent+Space+Grid+Screenshot+Here)
+![Latent Space Map](Latent%20Space%20Map.png)
 
 ### 2. Original vs. Reconstructed
 The model learns to compress a 784-pixel image down to just 2 numbers, and then successfully reconstruct the image from those 2 numbers.
 
-![Reconstruction](https://via.placeholder.com/800x300.png?text=Paste+your+Original+vs+Reconstructed+Screenshot+Here)
+![Reconstruction](e)
 
 ---
 
